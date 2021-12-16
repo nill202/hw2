@@ -1,0 +1,2 @@
+at first the program gets an input(n), if 'n' is divisible by 2 with no remainder then it is even so 'even' will be printed, otherwise 'n' is odd and
+ 'odd' will be printed.

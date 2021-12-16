@@ -1,0 +1,7 @@
+prime numbers are the numbers that are not the product of any other numbers.
+at the second line (flag = True) we assume that the given number(n) is prime.
+at the third line (for loop) 'i' takes numbers between 2 and the given number(n) and every time we check if 'n' is divisible by 'i' or not if it is, then 'n' is not
+a prime number so flag should turn into 'false'.
+at the end if flag is still true and n is not '1', 'yes' will be printed otherwise 'no' will be printed.
+
+   
